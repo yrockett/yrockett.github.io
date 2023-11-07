@@ -18,13 +18,14 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Start", icon: "home", file: "index.html"}
   - {title: "About", file: "README.md"}
-  - {title: "Foto", icon: "camera" url: "https://www.lomography.de/homes/yohane"}
+  
   - {title: "Blog", file: "blog.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:yrockett@yahoo.com"}
   - {title: Github, icon: github, url: "https://github.com/yrockett"}
   - {title: twitter, icon: twitter, url: "https://twitter.com/Yohane"}
+  - {title: "Foto", icon: "camera" url: "https://www.lomography.de/homes/yohane"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/

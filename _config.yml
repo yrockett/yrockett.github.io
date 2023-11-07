@@ -1,6 +1,6 @@
 title: "Yohane"
 author: "Yohane Rockett"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "Yohane's silly blog"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:yrockett@yahoo.com"}
   - {title: Github, icon: github, url: "https://github.com/yrockett"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/Yohane"}
+  - {title: X, icon: x, url: "https://twitter.com/Yohane"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/

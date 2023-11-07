@@ -16,8 +16,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title:"Start", icon: "home"}
-  - {file: "README.md", title: "me", icon: "adress-card"}
+  - {title: "Start", icon: "home", file: "index.html"}
+  - {title: "me", icon: "adress-card", file: "README.md"}
   - {title: "Foto", url: "https://www.lomography.de/homes/yohane"}
   - {title: "Blog", file: "blog.md"}
 

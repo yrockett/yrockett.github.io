@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Start", icon: "home", file: "index.html"}
-  - {title: "About", icon: "address-card", file: "README.md"}
+  - {title: "About", file: "README.md"}
   - {title: "Foto", icon: "camera" url: "https://www.lomography.de/homes/yohane"}
   - {title: "Blog", file: "blog.md"}
 
